@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "npm-test",
+  "version": "1.0.0",
+  "description": "NPM Test Package",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "inquirer": "^9.1.4"
+  }
+}
