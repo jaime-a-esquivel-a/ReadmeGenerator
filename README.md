@@ -4,9 +4,10 @@
 
 ## Description
 
-This is a README.md file generator this very file was created using the app. Answering a short set of questions will help you have a profesional MD file
+This is a README.md file generator this very file was created using the app. Answering a short set of questions will help you have a profesional MD file.
+See video below:
 
-[Go to App]()
+[Go to Video](https://drive.google.com/file/d/1PMf4l377BNm5d6JrDzeEszh8XUQXyxzd/view?usp=share_link)
 
 ## Contents
 
